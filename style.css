@@ -1582,7 +1582,7 @@ object {
 article.post .post-content,
 article.page .post-content {
 	background: #ffffff;
-	margin: -70px 20px 0;
+	margin: 0px 20px 0;
 	padding: 20px 20px 0;
 	position: relative;
 	z-index: 2;
