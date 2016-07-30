@@ -1,0 +1,20 @@
+.column-title{
+	color:#3d3d3d;
+	font-size:20px;
+	text-align:center;
+
+}
+.spacer, .column-title::after{
+	background-color: red;
+	width:100%;
+	display:block;
+	height:1px;
+	position:relative;
+	content:"";
+	margin-bottom: 10px;
+}
+/*
+
+!!MA*J7fu35N
+
+*/
